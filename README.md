@@ -7,7 +7,7 @@
 
 - [رزومه](https://mohamadimahnaz.github.io/resome/)
 
-- [SOP](https://mohamadimahnaz.github.io/SOP/)
+- [SOP](https://mohamadimahnaz.github.io/sop/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
