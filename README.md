@@ -8,6 +8,7 @@
 - [رزومه](https://mohamadimahnaz.github.io/resome/)
 
 - [SOP](https://mohamadimahnaz.github.io/sop/)
+[javascript](https://www.sololearn.com/Certificate/JavaScript/jpg/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
