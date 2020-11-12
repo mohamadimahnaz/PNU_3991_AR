@@ -1,1 +1,1 @@
-## پروژه : طراحی singleton pattern
+## project : singleton pattern
