@@ -9,7 +9,7 @@
 
 - [SOP](https://mohamadimahnaz.github.io/sop/)
 
-- [javascript مدرک](https://www.sololearn.com/Certificate/JavaScript/jpg/)
+- [javascript مدرک](https://mohamadimahnaz.github.io/cert/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
