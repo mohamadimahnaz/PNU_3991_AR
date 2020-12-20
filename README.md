@@ -1,15 +1,19 @@
-# PNU_3991_AR
----------
+
+<div dir="rtl">
+
+
 ### کلثوم محمدی 
  
 ---
-- [حساب گیت هاب](https://github.com/mohamadimahnaz)
+- [PNU_3991_AR](https://github.com/mohamadimahnaz/PNU_3991_AR)
 
-- [رزومه](https://mohamadimahnaz.github.io/resome/)
+- [Github](https://github.com/mohamadimahnaz)
+
+- [Rezome](https://mohamadimahnaz.github.io/resome/)
 
 - [SOP](https://mohamadimahnaz.github.io/sop/)
 
-- [javascript مدرک](https://www.sololearn.com/Certificate/JavaScript/jpg/)
+- [Certificate](https://www.sololearn.com/Certificate/JavaScript/jpg/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
