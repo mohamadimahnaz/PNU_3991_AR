@@ -25,10 +25,14 @@
 ## CHAPTER 7_Architectures
 
 - [Visualizing Software Architectures, Part 2]()
-   .[uml visualization]()
-   .[Rapide]()
-   .[xADL]()
-   .[LTSA]()
+
+   -[uml visualization]()
+   
+   -[Rapide]()
+   
+   -[xADL]()
+   
+   -[LTSA]()
 ---------------------------
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
