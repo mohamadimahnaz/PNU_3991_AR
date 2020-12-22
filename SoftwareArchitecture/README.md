@@ -18,7 +18,7 @@
 -------------------
 ## Implementation_Java Script
 
-- [Singleton pattern](https://github.com/mohamadimahnaz/PNU_3991_AR/tree/main/SoftwareArchitecture/)
+- [Singleton pattern](https://github.com/mohamadimahnaz/PNU_3991_AR/blob/main/SoftwareArchitecture/singleton.rar)
 
 --------------
 
