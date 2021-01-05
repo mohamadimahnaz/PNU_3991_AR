@@ -14,7 +14,7 @@
 
 - [SOP](https://mohamadimahnaz.github.io/sop/)
 
-- [Certificate](https://www.sololearn.com/Certificate/JavaScript/jpg/)
+- [Certificate](https://mohamadimahnaz.github.io/certificate/)
 -------------------
 ## Implementation_Java Script
 
