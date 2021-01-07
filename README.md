@@ -20,7 +20,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/mohamadimahnaz/PNU_3991_AR/blob/main/_General/KM_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/mohamadimahnaz/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/mohamadimahnaz/PNU_3991_AR/blob/main/_General/KM_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/mohamadimahnaz/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/KM_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
