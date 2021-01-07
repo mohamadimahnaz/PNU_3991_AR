@@ -24,7 +24,7 @@
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/mohamadimahnaz/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/KM_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/mohamadimahnaz/PNU_3991_AR/blob/main/SoftwareArchitecture/SZ_SoftwareArchitecture_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/mohamadimahnaz/PNU_3991_AR/blob/main/SoftwareArchitecture/KM_SoftwareArchitecture_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس_سمینار]()
 
 ------------------
