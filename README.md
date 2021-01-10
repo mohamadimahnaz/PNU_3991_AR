@@ -39,6 +39,7 @@
 [1115029_02	سمينار	2](https://github.com/mohamadimahnaz/PNU_3991_AR/tree/main/MscSeminar-1)
 
 --------------
+
 ## گروه های درسی
 
 1. G-A01
