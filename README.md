@@ -33,7 +33,7 @@
 
 ## دروس ارشد
 
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/mohamadimahnaz/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
+[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/mohamadimahnaz/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/KM_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
 <br>
 [1115280_01	معماري نرم افزار	3](https://github.com/mohamadimahnaz/PNU_3991_AR/tree/main/SoftwareArchitecture)
 <br>
